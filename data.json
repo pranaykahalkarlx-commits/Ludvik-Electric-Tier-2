@@ -1,0 +1,145 @@
+{
+  "businessName": "Ludvik Electric",
+  "category": "Electrician",
+  "phone": "(303) 371-2309",
+  "email": "service@ludvikelectric.com",
+  "address": {
+    "full": "5060 Havana St, Denver, CO 80239",
+    "street": "5060 Havana St",
+    "city": "Denver",
+    "state": "Colorado",
+    "postal_code": "80239",
+    "neighborhood": "Montbello"
+  },
+  "location": {
+    "lat": 39.7897668,
+    "lng": -104.8653014
+  },
+  "rating": 5,
+  "totalReviews": 50,
+  "yearEstablished": "1998",
+  "hero": {
+    "headline": "Power Your Peace of Mind: Expert Electricians in Denver",
+    "subheadline": "Ludvik Electric delivers reliable, professional electrical solutions across Denver, Colorado.",
+    "cta_text": "Request Professional Service"
+  },
+  "aboutUs": "At Ludvik Electric, we’ve been proudly serving the Denver, Colorado community since 1998, providing exceptional electrical services that you can trust. As a local business, our commitment goes beyond wires and circuits; we're dedicated to ensuring the safety, efficiency, and functionality of your property. We understand the critical role reliable electricity plays in your daily life, and our certified electricians approach every project with unparalleled professionalism and meticulous craftsmanship. From routine maintenance to complex installations, our focus is always on delivering reliable solutions built to last. We believe in clear communication, ensuring you're informed and confident every step of the way. While we always strive for perfection and continuous improvement, our unwavering goal remains to provide top-tier electrical expertise and a seamless experience for every client in the Denver area. When you choose Ludvik Electric, you're choosing a partner committed to powering your peace of mind with integrity and skill.",
+  "services": [
+    {
+      "name": "Electrical Repairs & Troubleshooting",
+      "description": "Expert diagnosis and repair of flickering lights, faulty outlets, circuit breaker issues, and power outages. We restore safety and functionality efficiently. Starting at $120. Est. 1-3 hours.",
+      "image": "https://picsum.photos/800/600?random=2"
+    },
+    {
+      "name": "Panel Upgrades & Installations",
+      "description": "Modernizing your electrical panel for increased capacity and safety. Ideal for older homes or expanding electrical needs, ensuring reliable power distribution. Consultation required. Est. 4-8 hours.",
+      "image": "https://picsum.photos/800/600?random=3"
+    },
+    {
+      "name": "Lighting Installation & Maintenance",
+      "description": "Professional installation of interior and exterior lighting, including recessed, LED, security, and landscape lighting. Enhancing aesthetics and security for your property. Starting at $150 per fixture. Est. 2-5 hours.",
+      "image": "https://picsum.photos/800/600?random=4"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Ludvik Electric provided exceptional service. Their electrician was professional, arrived on time, and fixed our issue quickly and efficiently. Highly recommend them for any electrical needs in Denver!",
+      "author": "Sarah J.",
+      "rating": 5
+    },
+    {
+      "text": "We had a complex wiring job, and Ludvik Electric handled it with incredible craftsmanship and clear communication throughout. The final result exceeded our expectations. Truly reliable professionals.",
+      "author": "Mark T.",
+      "rating": 5
+    },
+    {
+      "text": "For dependable electrical work in Denver, Ludvik Electric is the best. Their team was courteous, knowledgeable, and ensured everything was done safely and to code. Fantastic experience!",
+      "author": "Emily R.",
+      "rating": 5
+    }
+  ],
+  "uniqueSellingPoints": [
+    "Professional Craftsmanship",
+    "Reliable Denver Electricians",
+    "Clear Communication",
+    "Safety-First Approach",
+    "Experienced Local Team",
+    "Commitment to Quality"
+  ],
+  "design": {
+    "primaryColor": "#F59E0B",
+    "secondaryColor": "#1D4ED8",
+    "style": "modern"
+  },
+  "metaDescription": "Ludvik Electric — professional electrician in Denver.",
+  "keywords": [
+    "electrician Denver",
+    "Denver electrician",
+    "electrical repair Denver",
+    "electrical services Denver",
+    "electrical contractor Denver",
+    "local electrician Denver",
+    "panel upgrade Denver",
+    "lighting installation Denver",
+    "residential electrician Denver",
+    "commercial electrician Denver"
+  ],
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8:00 AM - 5:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9:00 AM - 2:00 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "googleMaps": "https://maps.app.goo.gl/hJkdWkZRRRKQg1FD7",
+  "mainImage": "https://www.ludvikelectric.com/images/main-electrician-service-denver.jpg",
+  "stockImageFallback": "https://picsum.photos/1920/1080?random=1",
+  "galleryImages": [
+    "https://picsum.photos/1920/1080?random=1",
+    "https://picsum.photos/800/600?random=2",
+    "https://picsum.photos/800/600?random=3",
+    "https://picsum.photos/800/600?random=4",
+    "https://picsum.photos/800/600?random=5",
+    "https://picsum.photos/800/600?random=6",
+    "https://picsum.photos/800/600?random=7",
+    "https://picsum.photos/800/600?random=8",
+    "https://picsum.photos/800/600?random=9",
+    "https://picsum.photos/800/600?random=10",
+    "https://picsum.photos/800/600?random=11",
+    "https://picsum.photos/800/600?random=12",
+    "https://picsum.photos/800/600?random=13",
+    "https://picsum.photos/800/600?random=14",
+    "https://picsum.photos/800/600?random=15",
+    "https://picsum.photos/800/600?random=16",
+    "https://picsum.photos/800/600?random=17",
+    "https://picsum.photos/800/600?random=18",
+    "https://picsum.photos/800/600?random=19",
+    "https://picsum.photos/800/600?random=20"
+  ],
+  "status": {
+    "permanently_closed": false
+  }
+}
